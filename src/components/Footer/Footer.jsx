@@ -363,7 +363,7 @@ function Footer() {
                       rel="noreferrer"
                     >
                       <img
-                        src="/img/apple_12.png"
+                        src="/img/apple.png"
                         className={styles.logoStyle}
                         alt="appleLogo"
                       />
@@ -377,7 +377,7 @@ function Footer() {
                     >
                       <img
                         alt="androidLogo"
-                        src="/img/android_1.png"
+                        src="/img/android.png"
                         className={styles.logoStyle}
                       />
                     </a>
@@ -395,7 +395,7 @@ function Footer() {
                     >
                       <img
                         alt="facebookLogo"
-                        src="/img/facebook_8.png"
+                        src="/img/facebook.png"
                         className={styles.logoStyle}
                       />
                     </a>
@@ -424,8 +424,8 @@ function Footer() {
           <div className="col-sm-2">
             <img
               className={`${styles.daThongBao} mb-3`}
-              alt="zizonLogo"
-              src="/img/zion.jpeg"
+              alt="zionLogo"
+              src="/img/zion.jfif"
               width={100}
             />
           </div>

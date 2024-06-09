@@ -26,12 +26,12 @@ function MovieCard({ item }) {
         />
         <div className={styles.trailerButton}>
           <button
-            className={styles.playButton}
+            className={styles.playicon}
             tabIndex={0}
             type="button"
             onClick={handleShow}
           >
-            <img src="/img/playButton.png" />
+            <img src="/img/playicon.png" />
           </button>
         </div>
         <Card.Body>

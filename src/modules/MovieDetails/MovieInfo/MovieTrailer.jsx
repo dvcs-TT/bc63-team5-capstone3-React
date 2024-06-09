@@ -30,13 +30,13 @@ function MovieTrailer({ movie, cinema }) {
       </a>
       <div className={styles.trailerButton}>
         <button
-          className={styles.playButton}
+          className={styles.playicon}
           type="button"
           onClick={handleShow}
         >
           <img
             src="/img/play-video.png"
-            alt="playButton"
+            alt="playicon"
           />
         </button>
       </div>
