@@ -320,7 +320,7 @@ function Footer() {
                   rel="noreferrer"
                 >
                   <img
-                    src="/img/ivb.png"
+                    src="/img/IVB.png"
                     className={styles.logoStyle}
                     alt="ivblogo"
                   />

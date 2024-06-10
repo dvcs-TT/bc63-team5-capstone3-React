@@ -74,7 +74,7 @@ function AdminLayout() {
             <div className="d-flex justify-content-end me-3">
               <img
                 className={styles.avatarUser}
-                src="https://i.pravatar.cc/300?u=abc123"
+                src="https://i.pravatar.cc/300?u=cbsadmin"
                 alt={user.taiKhoan}
               />
               <span className={styles.accountUser}>{user.taiKhoan}</span>

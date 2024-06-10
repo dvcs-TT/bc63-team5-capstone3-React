@@ -9,7 +9,7 @@ function PageNotFound() {
       <div className="text-center wrap-flex-align">
         <div className="col-12">
           <div className={styles.pageContent}>
-            <img src="https://file.hstatic.net/200000348419/file/404_1_ff141bafa60e4ed3aef90c7ebdbf54e6.png" />
+            <img src="https://img.freepik.com/free-vector/oops-404-error-with-broken-robot-concept-illustration_114360-5529.jpg" />
             <h2>Xin lỗi, chúng tôi không tìm thấy trang mà bạn cần tìm</h2>
             <p>Trở về trang chủ</p>
             <button className="btn btn-danger" onClick={() => navigate("/")}>

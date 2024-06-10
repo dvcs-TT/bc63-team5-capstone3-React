@@ -104,7 +104,7 @@ function Header() {
                     onClick={handleNavigateUser}
                   >
                     <img className={`${styles.userAvatar} me-2`}
-                      src="https://i.pravatar.cc/300?u=abc123"
+                      src="https://i.pravatar.cc/300?u=cbsadmin"
                       alt={user.taiKhoan}
                     />
                     <span className="me-4">{user.taiKhoan}</span>
